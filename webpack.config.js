@@ -97,7 +97,6 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './src/index.html',
       filename: 'index.html',
-      publicPath: '/',
     }),
     new MiniCssExtractPlugin({ linkType: 'text/css' }),
     new CleanWebpackPlugin(),
