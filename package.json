@@ -11,7 +11,7 @@
     "dev": "webpack serve --mode=development",
     "lint": "eslint \"src/**/*.{js,jsx,json}\"",
     "lint:fix": "eslint . --fix",
-    "build": "webpack --mode=production"
+    "build": "webpack serve"
   },
   "keywords": [],
   "author": "",
