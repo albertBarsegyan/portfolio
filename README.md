@@ -5,7 +5,7 @@
 - Used Pixabay API
 - You can find many backgrounds
 
-
+![image info](./src/images/readmeBack.png)
 
 
 ## Webpack config part
