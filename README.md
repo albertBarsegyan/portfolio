@@ -1,10 +1,11 @@
-# Animation for Margarita
+# Background images 
 
-I made this animation from jpg image.
 
-- From this image 
 
-<img src="src/images/background.jpg">
+- Used Pixabay API
+- You can find many backgrounds
+
+
 
 
 ## Webpack config part
